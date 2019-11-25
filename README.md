@@ -1,6 +1,7 @@
 # blockystudio-billboard
 
-Wireless SoPC billboard project built using BlockyStudio and PlatformIO
+Wireless SoPC billboard
+A verification and template project for BlockyStudio and platform-picorv32
 
 Using SparkRoad-V board with Anlogic EG4S20
 
@@ -9,7 +10,7 @@ Using SparkRoad-V board with Anlogic EG4S20
 BlockyStudio repo:
 https://github.com/nekomona/BlockyStudio
 
-PlatformIO platform description repo:
+PlatformIO platform descriptor repo:
 https://github.com/nekomona/platform-picorv32
 
 PlatformIO platform resource repo:
@@ -29,4 +30,4 @@ https://github.com/nekomona/platform-picorv32-resource
 * img_client/  
   Host program to transmit image to the billboard
 
-![avatar](readme_resc/system.png)
+![sys_img](readme_resc/system.png)
