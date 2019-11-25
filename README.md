@@ -1,6 +1,6 @@
 # blockystudio-billboard
 
-Wireless SoPC billboard
+Wireless SoPC billboard  
 A verification and template project for BlockyStudio and platform-picorv32
 
 Using SparkRoad-V board with Anlogic EG4S20
